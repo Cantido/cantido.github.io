@@ -1,0 +1,16 @@
+title: Robert Richter
+email: robert.c.richter@gmail.com
+description: > 
+  Robert Richter's GitHub.IO page.
+baseurl: ""
+url: "https://cantido.github.io"
+twitter_username: Lord_Cantido
+github_username: Cantido
+
+markdown: kramdown
+theme: minima
+
+highlighter: rouge
+
+gems:
+    - jekyll-asciidoc
