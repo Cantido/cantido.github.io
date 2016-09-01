@@ -14,3 +14,4 @@ highlighter: rouge
 
 gems:
     - jekyll-asciidoc
+exclude: [vendor] # So jekyll won't be blown up by Travis CI
