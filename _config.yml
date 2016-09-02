@@ -4,6 +4,7 @@ description: >
   Robert Richter's GitHub.IO page.
 baseurl: ""
 url: "https://cantido.github.io"
+timezone: America/Chicago
 twitter_username: Lord_Cantido
 # used for the jekyll-seo-tag plugin, duplication is unfortunate
 twitter:
