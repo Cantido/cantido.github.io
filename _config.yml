@@ -5,11 +5,26 @@ description: >
 baseurl: ""
 url: "https://cantido.github.io"
 twitter_username: Lord_Cantido
+# used for the jekyll-seo-tag plugin, duplication is unfortunate
+twitter:
+    username: Lord_Cantido
 github_username: Cantido
+social:
+    links:
+        - https://about.me/robert.richter
+        - https://www.facebook.com/rrichter
+        - https://twitter.com/Lord_Cantido
+        - https://www.linkedin.com/in/robertcrichter
+        - https://github.com/Cantido
+        - https://keybase.io/cantido
+        - https://stackoverflow.com/cv/robertrichter
+        - https://www.meetup.com/members/210633437/
 
 markdown: kramdown
 theme: minima
 
 highlighter: rouge
+gems:
+    - jekyll-seo-tag
 
 exclude: [vendor] # So jekyll won't be blown up by Travis CI
