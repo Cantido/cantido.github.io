@@ -7,13 +7,9 @@ url: "https://cantido.github.io"
 twitter_username: Lord_Cantido
 github_username: Cantido
 
-asciidoc: {}
-asciidoctor: {}
 markdown: kramdown
 theme: minima
 
 highlighter: rouge
 
-gems:
-    - jekyll-asciidoc
 exclude: [vendor] # So jekyll won't be blown up by Travis CI

@@ -1,8 +1,0 @@
-= Building My Site
-:page-layout: post
-
-I'm working on building the site. I'm using Jekyll, which I haven't used before.
-
-I am writing this post in Asciidoc format, since I think it's better than
-Markdown.
-
