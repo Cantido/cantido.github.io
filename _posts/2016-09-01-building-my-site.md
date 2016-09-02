@@ -2,6 +2,7 @@
 layout: page
 title: Building my Site
 date: 2016-09-01 19:18:17 -0500
+author: Lord_Cantido
 description: My experiences building a GitHub pages site with Jekyll
 ---
 
