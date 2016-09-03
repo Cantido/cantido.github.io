@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi, I’m Bobby. I’m a software engineer in St. Louis, Missouri. Java is my specialty and I love what I do.
