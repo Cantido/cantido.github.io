@@ -3,10 +3,14 @@ layout: page
 permalink: /
 ---
 
-Hi, I’m Bobby. I’m a software engineer in St. Louis, Missouri. Java is my specialty and I love what I do.
+Hi, I’m Bobby.
+I’m a software engineer in St. Louis, Missouri.
+Java is my specialty and I love what I do.
 
-I also like to build computers, tinker with other electronics, and I like to cook. I'm especially interested in Modernist cuisine.
+I also like to build computers, tinker with other electronics, and I like to cook.
+I'm especially interested in Modernist cuisine.
 
-You can verify the ownership of my public accounts through [my keybase.io profile](https://keybase.io/cantido). That includes the GitHub account under which this site is hosted.
+You can verify the ownership of my public accounts through [my keybase.io profile](https://keybase.io/cantido).
+That includes the GitHub account under which this site is hosted.
 
 For more information, and links to other sites, see [my about.me page](https://about.me/robert.richter).
