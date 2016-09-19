@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/cantido
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cantido.github.io
+  * I am cantido (https://keybase.io/cantido) on keybase.
+  * I have a public key with fingerprint DD2C 4F19 5E70 A0D9 2F86  2D6F 60BA 2A8B FD58 3641
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e99c73fefd36723a137c56580657457cd48ebd206d7bc947ff03fac765d24ff90a",
+            "fingerprint": "dd2c4f195e70a0d92f862d6f60ba2a8bfd583641",
+            "host": "keybase.io",
+            "key_id": "60ba2a8bfd583641",
+            "kid": "0101e99c73fefd36723a137c56580657457cd48ebd206d7bc947ff03fac765d24ff90a",
+            "uid": "193a72d773267f61b5972d67652f6a19",
+            "username": "cantido"
+        },
+        "service": {
+            "hostname": "cantido.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474324099,
+    "expire_in": 157680000,
+    "prev": "70e5475beb02db39500b2d36441af9d6411a18e87b20a5a07c6f115d682587a6",
+    "seqno": 39,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owGtkkloFEEUhmcSFxT34BYVsRUJGEJ1dVdV9wRxOYhGxLhAVDRDVVfVpGOcHqc7
+E7eACCouQQWNO0YxKkT04ILgBoqoScSDGD1EUSTKYFAQDBrX6qgHwaN1KerV9/73
+3s/bPTA3khO9cfvwJ79hSHG0JcsiZS9k3XqNeXytFluvrRQ9l6jiwg/iK12uxTSg
+A13YtkMMKSQ3MIEG1Q3iIIwsgBExEXG4aQnGIcCcMMc2iZTAkNQhGHFoSmkDqhVq
+0k0mRDqVdpOBkuUcOqbUbSQIoIDbUFoYciwxYBRSi0mOLAObukqs8PwwQzXHqC+K
+XE/F1CPe094/+P/cd3WPnG4blEBOiAExkVhnyFZPrFAoMdXtEPRFOklXCUU7NBm4
+3NNqCzUVzLiOCH0NB/kbKEq4QUU1+zVTKu0FnuNVqe+KIEj5sTA9WJsK+RrB4r+V
+4sxNcuWlysiItO96SS2mK9IJ3FBaN4lpQBPYdqEm1qTctIi7IYEItoA6YR2RUZIE
+iBXIJIgJBiBnho0AYFA5ZZo6lTZXZupUt4RFGAQUUUAcLHUdcWxBZBGKtXC41UlP
+ixmqVkATStR3E0kaVKeFVtt/W3Rsr0g0J9Knd064ZpH+/Yb82b3t3/v+qDx5b9Dj
+53nXJvZZfOlKx/nrTVX5pfNOL7/7IL/f3keFw8/d7m7d3FY5uubKgp1f64Km7Ka2
+708noZo9zaJX57T6m8c7Pr7t+LFoa2f+pYJo5fm59JDWuuJhU3ZpZ1cj+FY2KrOj
+6OLRh+Mvl5/NW11sFlzObLy69fDIdYPvzmr8PPXVhK4pZ8a8EZvYsNSGOdXTPk8/
+0jwub/aCc2NHeOkZJbcmdg9fWlduX6vvhqUNbSl6ZxcpCQYsXHLg3QV5LOtvewLn
+jcktPzJOK+76UNB54tSFZWczeS/vP8ptr7DqD+ZnW07eqR/Rvrl8X/vM96+3lAx6
+sL9UfKm1E8+Ot7yej7qGLplctf8n
+=frsI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cantido
+
+==================================================================
