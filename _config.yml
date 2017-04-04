@@ -8,9 +8,6 @@ twitter_username: Lord_Cantido
 # used for the jekyll-seo-tag plugin, duplication is unfortunate
 twitter:
     username: Lord_Cantido
-author:
-    twitter: Lord_Cantido
-    picture: https://gravatar.com/avatar/6712b50d0987d75709bf882bb38aa542
 github_username: Cantido
 repository: Cantido/cantido.github.io
 social:
