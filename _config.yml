@@ -1,10 +1,10 @@
-title: Robert Richter
+title: Rosa Richter
 description: >
-  Robert Richter's GitHub.IO page.
+  Rosa Richter's GitHub.IO page.
 baseurl: ""
 url: "https://cantido.github.io"
 timezone: America/Chicago
-twitter_username: Lord_Cantido
+twitter_username: Lady_Cantido
 # used for the jekyll-seo-tag plugin, duplication is unfortunate
 twitter:
     username: Lord_Cantido
@@ -12,10 +12,10 @@ github_username: Cantido
 repository: Cantido/cantido.github.io
 social:
     links:
-        - https://about.me/robert.richter
+        - https://about.me/rosa.richter
         - https://www.facebook.com/rrichter
-        - https://twitter.com/Lord_Cantido
-        - https://www.linkedin.com/in/robertcrichter
+        - https://twitter.com/Lady_Cantido
+        - https://www.linkedin.com/in/rosarichter
         - https://github.com/Cantido
         - https://keybase.io/cantido
         - https://stackoverflow.com/cv/robertrichter
