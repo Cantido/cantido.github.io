@@ -7,7 +7,7 @@ timezone: America/Chicago
 twitter_username: Lady_Cantido
 # used for the jekyll-seo-tag plugin, duplication is unfortunate
 twitter:
-    username: Lord_Cantido
+    username: Lady_Cantido
 github_username: Cantido
 repository: Cantido/cantido.github.io
 social:
@@ -18,7 +18,7 @@ social:
         - https://www.linkedin.com/in/rosarichter
         - https://github.com/Cantido
         - https://keybase.io/cantido
-        - https://stackoverflow.com/cv/robertrichter
+        - https://stackoverflow.com/cv/rosarichter
         - https://www.meetup.com/members/210633437/
         - https://plus.google.com/u/0/+RobertRichter1
 
