@@ -16,4 +16,4 @@ That includes the GitHub account under which this site is hosted.
 For more information, and links to other sites, see [my about.me page][aboutme].
 
 [keybase]: https://keybase.io/cantido
-[aboutme]: https://about.me/robert.richter
+[aboutme]: https://about.me/rosa.richter
