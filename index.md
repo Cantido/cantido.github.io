@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-Hi, I’m Bobby.
+Hi, I’m Rosa (formerly Robert).
 I’m a software engineer in St. Louis, Missouri.
 Java is my specialty and I love what I do.
 
