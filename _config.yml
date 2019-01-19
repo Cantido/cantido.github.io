@@ -31,3 +31,5 @@ gems:
     - jekyll-seo-tag
 
 exclude: [vendor] # So jekyll won't be blown up by Travis CI
+
+theme: jekyll-theme-minimal
