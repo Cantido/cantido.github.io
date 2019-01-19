@@ -26,7 +26,6 @@ google_site_verification: 6GGjpRMhHXMgAIyAwrOKu8obsRZE9bHif6IoZWcbzJI
 google_analytics: UA-47057725-3
 
 markdown: kramdown
-theme: minimal
 highlighter: rouge
 gems:
     - jekyll-seo-tag
