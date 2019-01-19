@@ -3,17 +3,11 @@ layout: page
 permalink: /
 ---
 
-Hi, I’m Rosa (formerly Robert).
-I’m a software engineer in St. Louis, Missouri.
-Java is my specialty and I love what I do.
+Hi, I’m Rosa. I’m a software engineer. My pronouns are [she/her].
 
-I also like to build computers, tinker with other electronics, and I like to cook.
-I'm especially interested in Modernist cuisine.
+You can verify the ownership of my public accounts through my [keybase.io] profile.
+My public key fingerprint is `DD2C 4F19 5E70 A0D9 2F86 2D6F 60BA 2A8B FD58 3641`,
+and you can double-check that through my GitHub, Facebook, or Keybase profiles.
 
-You can verify the ownership of my public accounts through [my keybase.io profile][keybase].
-That includes the GitHub account under which this site is hosted.
-
-For more information, and links to other sites, see [my about.me page][aboutme].
-
-[keybase]: https://keybase.io/cantido
-[aboutme]: https://about.me/rosa.richter
+[she/her]: http://pronoun.is/she/her
+[keybase.io]: https://keybase.io/cantido
