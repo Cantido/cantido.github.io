@@ -24,4 +24,4 @@ My GitHub.IO web page. Built using [jekyll](https://github.com/jekyll/jekyll).
 
 ## License
 
-Copyright © 2016 Rosa Richter. All rights reserved.
+Copyright © 2021 Rosa Richter. All rights reserved.
