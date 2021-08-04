@@ -27,4 +27,4 @@ highlighter: rouge
 gems:
     - jekyll-seo-tag
 
-theme: jekyll-theme-minimal
+theme: minimal
